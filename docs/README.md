@@ -161,6 +161,7 @@ The public RDS bundle at `database/certs/global-bundle.pem` came from Amazon's o
 
 ## Student A Contribution
 Student B updated this README for the first merge conflict exercise.
+Student A updated this README for the first merge conflict exercise.
 
 ## Student B Contribution
 Student B is practicing Git collaboration and pull requests.
