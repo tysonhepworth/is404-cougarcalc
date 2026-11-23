@@ -161,3 +161,6 @@ The public RDS bundle at `database/certs/global-bundle.pem` came from Amazon's o
 
 ## Student A Contribution
 Student A is working on Git branching and collaboration.
+
+## Student B Contribution
+Student B is practicing Git collaboration and pull requests.
